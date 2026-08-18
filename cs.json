@@ -1,4 +1,5 @@
 {
-  "status": "down",           // Possible values: "up", "updating", "down", "major_down"
-  "version": "1.0.3"        // Semantic versioning (e.g., 1.0.0, 2.3.1, 0.9.5)
+  "_comment": "status: up, updating, down, or major_down",
+  "status": "down",
+  "version": "1.0.3"
 }

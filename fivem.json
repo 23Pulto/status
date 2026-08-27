@@ -1,5 +1,5 @@
 {
   "_comment": "status: up, updating, down, or major_down",
-  "status": "updating",
+  "status": "down",
   "version": "1.0.2"
 }
